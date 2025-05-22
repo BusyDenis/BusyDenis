@@ -36,15 +36,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDenis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BusyDenis&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br>
-
----
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Feel+free+to+connect+with+me!" alt="Typing SVG" />
-</div>
