@@ -43,9 +43,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Feel+free+to+connect+with+me!;Let's+create+something+amazing+together!" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BusyDenis&theme=tokyonight" alt="Profile Details" />
 </div>
