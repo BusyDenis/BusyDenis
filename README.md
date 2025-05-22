@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Denis&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Car%20Enthusiast&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=100&lines=Working+at+Nine+Internet+Solutions+AG;Building+the+future+of+web+development" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BusyDenis&color=7B68EE&style=plastic" alt="profile views" />
