@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;I'm+Denis" alt="Typing SVG" />
 </div>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-0-brightgreen?style=flat-square&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Age-18-6366F1?style=flat-square" alt="Age" />
-  <img src="https://img.shields.io/badge/Working-Nine%20Internet%20Solutions%20AG-6366F1?style=flat-square" alt="Work" />
+  <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Age-18-6366F1?style=for-the-badge&logo=calendar" alt="Age" />
+  <img src="https://img.shields.io/badge/Working-Nine%20Internet%20Solutions%20AG-6366F1?style=for-the-badge&logo=office" alt="Work" />
 </div>
 
 <br>
