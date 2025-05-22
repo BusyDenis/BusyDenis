@@ -33,7 +33,7 @@
 </div>
 
 ### 🛠️ Most Used Languages
-<br>
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDenis&layout=compact&theme=tokyonight&hide_border=true&custom_title=My%20Top%20Languages&title_color=6366F1&text_color=fff" alt="Top Languages" />
 </div>
