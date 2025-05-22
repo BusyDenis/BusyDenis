@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BusyDenis/BusyDenis/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Denis!;Welcome+to+my+profile!" alt="Typing SVG" />
