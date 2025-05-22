@@ -9,12 +9,12 @@
 <div align="center">
   <h2>🌟 About Me</h2>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=18+Years+Old;Working+at+Nine+Internet+Solutions+AG;Car+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-2E8B57?style=for-the-badge" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-2E8B57?style=for-the-badge" alt="Open Source" />
-    <img src="https://img.shields.io/badge/Problem-Solver-2E8B57?style=for-the-badge" alt="Problem Solver" />
+    <img src="https://img.shields.io/badge/Age-18-2E8B57?style=for-the-badge" alt="Age" />
+    <img src="https://img.shields.io/badge/Nine%20Internet-Solutions%20AG-2E8B57?style=for-the-badge" alt="Company" />
+    <img src="https://img.shields.io/badge/Car-Enthusiast-2E8B57?style=for-the-badge" alt="Car Enthusiast" />
   </p>
 </div>
 
