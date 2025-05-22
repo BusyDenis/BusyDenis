@@ -57,9 +57,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BusyDenis&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=35&animation=twinkling" alt="Footer" />
 </div>
