@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://buymeacoffee.com/denissucder" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=denissucder&button_colour=6366F1&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;I'm+Denis" alt="Typing SVG" />
 </div>
 
