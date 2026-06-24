@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:denis@nine.ch"><img src="https://img.shields.io/badge/✉_email-denis@nine.ch-6366F1?style=flat-square&labelColor=0b0e14" alt="email" /></a>
+  <a href="mailto:denissuc.den@gmail.com"><img src="https://img.shields.io/badge/✉_email-denissuc.den@gmail.com-6366F1?style=flat-square&labelColor=0b0e14" alt="email" /></a>
   <a href="https://www.nine.ch"><img src="https://img.shields.io/badge/⌁_work-Nine_Internet_Solutions-6366F1?style=flat-square&labelColor=0b0e14" alt="nine" /></a>
   <img src="https://img.shields.io/badge/◍_region-CH-6366F1?style=flat-square&labelColor=0b0e14" alt="region" />
   <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=flat-square&color=6366F1&label=telemetry.pings" alt="views" />
