@@ -33,7 +33,7 @@ $ uptime
 
 <br>
 
-### 🤖 ai co-pilot telemetry &nbsp;<sub>`/ live · via tokscale`</sub>
+### 🤖 claude usage &nbsp;<sub>`/ live · tokscale`</sub>
 
 <div align="center">
   <a href="https://tokscale.ai/u/BusyDenis"><img src="https://tokscale.ai/api/embed/BusyDenis/svg?template=terminal&graph=1&tokens=full&cost=full" alt="Tokscale Stats" /></a>
@@ -41,25 +41,14 @@ $ uptime
 
 <br>
 
-### ▦ scrape targets &nbsp;<sub>`/ currently monitoring`</sub>
-
-| status | target | description |
-|:------:|:-------|:------------|
-| 🟢 `UP`   | **office-metrics**   | Pi Zero 2 W + Enviro+ → Prometheus / Grafana environmental monitoring |
-| 🟢 `UP`   | **kernel.rpi**       | custom gokrazy kernel fork (ADAU7002 mic, ASoC) for arm64 appliances |
-| 🟡 `WARM` | **nine-mcp**         | MCP server prototype for Nine Cockpit (Python, learning the app side) |
-| 🟡 `WARM` | **learning/python**  | leveling up beyond ops — APIs, services, the application layer |
-
-<br>
-
 ---
 
 <div align="center">
-  <sub>◆ if a panel ever helped or just made you smile, the coffee machine accepts pings ◆</sub>
-  <br><br>
+  <a href="https://github.com/BusyDenis/BusyDenis">
+    <img src="https://img.shields.io/github/stars/BusyDenis/BusyDenis?style=for-the-badge&logo=github&logoColor=white&label=STAR%20MY%20PROFILE&color=6366F1&labelColor=0b0e14" alt="Star my profile" />
+  </a>
+  &nbsp;
   <a href="https://buymeacoffee.com/denissucder">
     <img src="https://img.shields.io/badge/◢◤_buy_me_a_coffee-fuel_the_uptime-6366F1?style=for-the-badge&labelColor=0b0e14" alt="Buy Me a Coffee" />
   </a>
-  <br><br>
-  <sub><code>end of stream · status: OPERATIONAL · thanks for scraping</code></sub>
 </div>
