@@ -20,8 +20,7 @@
 
 ```sh
 $ whoami --verbose
-> denis @ nine.ch · 19 · infrastructure & ops
-> I make machines report on themselves — sensors, metrics, dashboards, OTA fleets.
+> denis @ nine.ch · 19 · 2nd-year apprentice
 > Comfortable in a terminal. Currently teaching myself the application side.
 $ uptime
 > learning since 2023 · load average: high, by choice
