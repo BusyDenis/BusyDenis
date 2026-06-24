@@ -21,7 +21,6 @@
 ```sh
 $ whoami --verbose
 > denis @ nine.ch · 19 · 2nd-year apprentice
-> Comfortable in a terminal. Currently teaching myself the application side.
 $ uptime
 > learning since 2023 · load average: high, by choice
 ```
@@ -30,19 +29,6 @@ $ uptime
 
 <div align="center">
   <img src="assets/skills.svg" width="100%" alt="Skill gauges" />
-</div>
-
-<br>
-
-### ◍ github telemetry &nbsp;<sub>`/ live · scraped from the source`</sub>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BusyDenis&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0e14&title_color=818cf8&text_color=e6e9ef&icon_color=6366f1&ring_color=22d3ee&custom_title=signal%20·%20BusyDenis" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDenis&layout=compact&hide_border=true&langs_count=8&bg_color=0b0e14&title_color=818cf8&text_color=e6e9ef&custom_title=language%20distribution" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BusyDenis&hide_border=true&background=0b0e14&stroke=1f2733&ring=6366f1&fire=22d3ee&currStreakLabel=818cf8&sideLabels=8b94a7&dates=586176&currStreakNum=e6e9ef&sideNums=e6e9ef&backgroundColor=0b0e14" alt="Commit streak" />
 </div>
 
 <br>
