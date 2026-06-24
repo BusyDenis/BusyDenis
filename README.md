@@ -33,7 +33,7 @@ $ uptime
 
 <br>
 
-### 🤖 claude usage &nbsp;<sub>`/ live · tokscale`</sub>
+### 🤖 my usage &nbsp;<sub>`/ live · tokscale`</sub>
 
 <div align="center">
   <a href="https://tokscale.ai/u/BusyDenis"><img src="https://tokscale.ai/api/embed/BusyDenis/svg?template=terminal&graph=1&tokens=full&cost=full" alt="Tokscale Stats" /></a>
