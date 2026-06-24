@@ -57,8 +57,6 @@
       <text x="46" y="221" fill="#8b94a7">REGION <tspan fill="#cbd2e0">CH</tspan></text>
       <rect x="134" y="206" width="80" height="22" rx="6" fill="#11151f" stroke="#1f2733"/>
       <text x="146" y="221" fill="#8b94a7">AGE <tspan fill="#cbd2e0">19</tspan></text>
-      <rect x="222" y="206" width="158" height="22" rx="6" fill="#11151f" stroke="#1f2733"/>
-      <text x="234" y="221" fill="#8b94a7">STACK <tspan fill="#cbd2e0">Go · Linux · gokrazy</tspan></text>
     </g>
 
     <!-- heartbeat sparkline -->
