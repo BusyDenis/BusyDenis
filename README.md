@@ -16,12 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=flat-square&color=6366F1&label=telemetry.pings" alt="views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/BusyDenis/BusyDenis">
-    <img src="https://img.shields.io/github/stars/BusyDenis/BusyDenis?style=for-the-badge&logo=github&logoColor=white&label=★%20STAR%20MY%20PROFILE&color=6366F1&labelColor=0b0e14" alt="Star my profile" />
-  </a>
-</p>
-
 ---
 
 ```sh
