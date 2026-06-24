@@ -20,7 +20,7 @@
 
 ```sh
 $ whoami --verbose
-> denis @ nine.ch · 18 · infrastructure & ops
+> denis @ nine.ch · 19 · infrastructure & ops
 > I make machines report on themselves — sensors, metrics, dashboards, OTA fleets.
 > Comfortable in a terminal. Currently teaching myself the application side.
 $ uptime
