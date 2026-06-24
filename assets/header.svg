@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Courier New', monospace" role="img" aria-label="Denis — Infrastructure Engineer status header">
+  <defs>
+    <linearGradient id="ind" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a5b4fc"/>
+      <stop offset="0.55" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#6366f1" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#141a26" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panel"><rect x="2" y="2" width="896" height="236" rx="16"/></clipPath>
+    <style>
+      .cur   { animation: blink 1.05s steps(1) infinite; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; transform-origin: center; }
+      .scan  { animation: scan 7s linear infinite; }
+      .beat  { stroke-dasharray: 360; stroke-dashoffset: 360; animation: beat 3.2s linear infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+      @keyframes scan  { 0% { transform: translateY(-60px); } 100% { transform: translateY(300px); } }
+      @keyframes beat  { 0% { stroke-dashoffset: 360; } 70% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#panel)">
+    <rect x="2" y="2" width="896" height="236" rx="16" fill="#0b0e14"/>
+    <rect x="2" y="2" width="896" height="236" fill="url(#grid)"/>
+    <rect x="2" y="2" width="896" height="236" fill="url(#glow)"/>
+    <rect class="scan" x="2" y="2" width="896" height="48" fill="#6366f1" opacity="0.05"/>
+
+    <!-- top strip -->
+    <circle cx="30" cy="30" r="4" fill="#34d399" class="pulse"/>
+    <text x="44" y="34" fill="#cbd2e0" font-size="13" letter-spacing="1.5">denis.status</text>
+    <text x="146" y="34" fill="#586176" font-size="13" letter-spacing="1.5">/ self-hosted human · uptime monitor</text>
+
+    <!-- status pill -->
+    <rect x="690" y="16" width="190" height="30" rx="15" fill="#0e1a14" stroke="#1f5138"/>
+    <circle cx="712" cy="31" r="5" fill="#34d399" class="pulse"/>
+    <text x="726" y="35" fill="#6ee7b7" font-size="12.5" letter-spacing="2">OPERATIONAL</text>
+
+    <!-- wordmark -->
+    <text x="28" y="124" fill="url(#ind)" font-size="74" font-weight="700" letter-spacing="2">DENIS</text>
+    <text x="34" y="156" fill="#8b94a7" font-size="14.5" letter-spacing="3.5">INFRASTRUCTURE ENGINEER  ·  NINE INTERNET SOLUTIONS AG</text>
+
+    <!-- prompt -->
+    <text x="34" y="190" font-size="14.5" letter-spacing="0.5">
+      <tspan fill="#34d399">&#62; </tspan><tspan fill="#aeb6c6">monitoring everything — including myself</tspan><tspan class="cur" fill="#818cf8">&#9608;</tspan>
+    </text>
+
+    <!-- meta chips -->
+    <g font-size="11.5" letter-spacing="1.5">
+      <rect x="34" y="206" width="92" height="22" rx="6" fill="#11151f" stroke="#1f2733"/>
+      <text x="46" y="221" fill="#8b94a7">REGION <tspan fill="#cbd2e0">CH</tspan></text>
+      <rect x="134" y="206" width="80" height="22" rx="6" fill="#11151f" stroke="#1f2733"/>
+      <text x="146" y="221" fill="#8b94a7">AGE <tspan fill="#cbd2e0">18</tspan></text>
+      <rect x="222" y="206" width="158" height="22" rx="6" fill="#11151f" stroke="#1f2733"/>
+      <text x="234" y="221" fill="#8b94a7">STACK <tspan fill="#cbd2e0">Go · Linux · gokrazy</tspan></text>
+    </g>
+
+    <!-- heartbeat sparkline -->
+    <polyline points="610,210 650,210 662,210 672,186 686,228 700,198 712,210 760,210 772,210 782,192 794,222 806,210 870,210"
+      fill="none" stroke="#222b3a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline class="beat" points="610,210 650,210 662,210 672,186 686,228 700,198 712,210 760,210 772,210 782,192 794,222 806,210 870,210"
+      fill="none" stroke="#6366f1" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="none" stroke="#1f2733" stroke-width="1.5"/>
+</svg>

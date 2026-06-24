@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', 'Courier New', monospace" role="img" aria-label="Skill gauges">
+  <defs>
+    <linearGradient id="gg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="ga" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <clipPath id="p2"><rect x="2" y="2" width="896" height="226" rx="16"/></clipPath>
+    <style>
+      .arc  { stroke-dasharray: 182; stroke-dashoffset: 182; animation: draw 1.5s 0.2s ease-out forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#p2)">
+    <rect x="2" y="2" width="896" height="226" rx="16" fill="#0b0e14"/>
+    <!-- panel header -->
+    <text x="28" y="38" fill="#cbd2e0" font-size="13" letter-spacing="2">SKILL GAUGES</text>
+    <text x="150" y="38" fill="#586176" font-size="12" letter-spacing="1.5">/ proficiency.read()</text>
+    <text x="760" y="38" fill="#586176" font-size="11.5" letter-spacing="1.5">live · self-reported</text>
+    <line x1="28" y1="50" x2="872" y2="50" stroke="#161c27"/>
+
+    <!-- gauges: track + value -->
+    <g transform="translate(0,40)">
+      <!-- Go 85 -->
+      <path d="M32,130 A58,58 0 0 1 148,130" fill="none" stroke="#1b2330" stroke-width="9" stroke-linecap="round"/>
+      <path class="arc" d="M32,130 A58,58 0 0 1 141.7,103.7" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linecap="round"/>
+      <text x="90" y="124" fill="#e6e9ef" font-size="26" font-weight="700" text-anchor="middle">85<tspan font-size="13" fill="#8b94a7">%</tspan></text>
+      <text x="90" y="160" fill="#aeb6c6" font-size="13" text-anchor="middle" letter-spacing="1">Go</text>
+
+      <!-- Linux / Ops 92 -->
+      <path d="M212,130 A58,58 0 0 1 328,130" fill="none" stroke="#1b2330" stroke-width="9" stroke-linecap="round"/>
+      <path class="arc" d="M212,130 A58,58 0 0 1 326.2,115.6" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linecap="round"/>
+      <text x="270" y="124" fill="#e6e9ef" font-size="26" font-weight="700" text-anchor="middle">92<tspan font-size="13" fill="#8b94a7">%</tspan></text>
+      <text x="270" y="160" fill="#aeb6c6" font-size="13" text-anchor="middle" letter-spacing="1">Linux / Ops</text>
+
+      <!-- Networking 78 -->
+      <path d="M392,130 A58,58 0 0 1 508,130" fill="none" stroke="#1b2330" stroke-width="9" stroke-linecap="round"/>
+      <path class="arc" d="M392,130 A58,58 0 0 1 494.7,93" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linecap="round"/>
+      <text x="450" y="124" fill="#e6e9ef" font-size="26" font-weight="700" text-anchor="middle">78<tspan font-size="13" fill="#8b94a7">%</tspan></text>
+      <text x="450" y="160" fill="#aeb6c6" font-size="13" text-anchor="middle" letter-spacing="1">Networking</text>
+
+      <!-- Cloud / Deploy 80 -->
+      <path d="M572,130 A58,58 0 0 1 688,130" fill="none" stroke="#1b2330" stroke-width="9" stroke-linecap="round"/>
+      <path class="arc" d="M572,130 A58,58 0 0 1 676.9,95.9" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linecap="round"/>
+      <text x="630" y="124" fill="#e6e9ef" font-size="26" font-weight="700" text-anchor="middle">80<tspan font-size="13" fill="#8b94a7">%</tspan></text>
+      <text x="630" y="160" fill="#aeb6c6" font-size="13" text-anchor="middle" letter-spacing="1">Cloud / Deploy</text>
+
+      <!-- Python (warming up) 45 -->
+      <path d="M752,130 A58,58 0 0 1 868,130" fill="none" stroke="#1b2330" stroke-width="9" stroke-linecap="round"/>
+      <path class="arc" d="M752,130 A58,58 0 0 1 800.9,72.7" fill="none" stroke="url(#ga)" stroke-width="9" stroke-linecap="round"/>
+      <text x="810" y="124" fill="#e6e9ef" font-size="26" font-weight="700" text-anchor="middle">45<tspan font-size="13" fill="#8b94a7">%</tspan></text>
+      <text x="810" y="160" fill="#fbbf24" font-size="13" text-anchor="middle" letter-spacing="1">Python ▲</text>
+    </g>
+  </g>
+  <rect x="2" y="2" width="896" height="226" rx="16" fill="none" stroke="#1f2733" stroke-width="1.5"/>
+</svg>

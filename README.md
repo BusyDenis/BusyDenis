@@ -1,55 +1,80 @@
+<!--
+  Denis · profile README — "observability dashboard for a human"
+  Theme: dark status-page / Grafana. Accent #6366F1.
+  The big panels are hand-crafted SVGs in assets/ (no external services, never break).
+  The Claude panel (assets/claude.svg) is regenerated from data/usage.json — see SETUP.md.
+-->
+
 <div align="center">
-  <a href="https://buymeacoffee.com/denissucder" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=denissucder&button_colour=6366F1&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
+  <img src="assets/header.svg" width="100%" alt="Denis — Infrastructure Engineer @ Nine" />
+</div>
+
+<p align="center">
+  <a href="mailto:denis@nine.ch"><img src="https://img.shields.io/badge/✉_email-denis@nine.ch-6366F1?style=flat-square&labelColor=0b0e14" alt="email" /></a>
+  <a href="https://www.nine.ch"><img src="https://img.shields.io/badge/⌁_work-Nine_Internet_Solutions-6366F1?style=flat-square&labelColor=0b0e14" alt="nine" /></a>
+  <img src="https://img.shields.io/badge/◍_region-CH-6366F1?style=flat-square&labelColor=0b0e14" alt="region" />
+  <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=flat-square&color=6366F1&label=telemetry.pings" alt="views" />
+</p>
+
+---
+
+```sh
+$ whoami --verbose
+> denis @ nine.ch · 18 · infrastructure & ops
+> I make machines report on themselves — sensors, metrics, dashboards, OTA fleets.
+> Comfortable in a terminal. Currently teaching myself the application side.
+$ uptime
+> learning since 2023 · load average: high, by choice
+```
+
+<br>
+
+<div align="center">
+  <img src="assets/skills.svg" width="100%" alt="Skill gauges" />
+</div>
+
+<br>
+
+### ◍ github telemetry &nbsp;<sub>`/ live · scraped from the source`</sub>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BusyDenis&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0e14&title_color=818cf8&text_color=e6e9ef&icon_color=6366f1&ring_color=22d3ee&custom_title=signal%20·%20BusyDenis" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDenis&layout=compact&hide_border=true&langs_count=8&bg_color=0b0e14&title_color=818cf8&text_color=e6e9ef&custom_title=language%20distribution" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BusyDenis&hide_border=true&background=0b0e14&stroke=1f2733&ring=6366f1&fire=22d3ee&currStreakLabel=818cf8&sideLabels=8b94a7&dates=586176&currStreakNum=e6e9ef&sideNums=e6e9ef&backgroundColor=0b0e14" alt="Commit streak" />
+</div>
+
+<br>
+
+### 🤖 ai co-pilot telemetry &nbsp;<sub>`/ auto-updated from ccusage — see SETUP.md`</sub>
+
+<div align="center">
+  <img src="assets/claude.svg" width="100%" alt="Claude Code token telemetry" />
+</div>
+
+<br>
+
+### ▦ scrape targets &nbsp;<sub>`/ currently monitoring`</sub>
+
+| status | target | description |
+|:------:|:-------|:------------|
+| 🟢 `UP`   | **office-metrics**   | Pi Zero 2 W + Enviro+ → Prometheus / Grafana environmental monitoring |
+| 🟢 `UP`   | **kernel.rpi**       | custom gokrazy kernel fork (ADAU7002 mic, ASoC) for arm64 appliances |
+| 🟡 `WARM` | **nine-mcp**         | MCP server prototype for Nine Cockpit (Python, learning the app side) |
+| 🟡 `WARM` | **learning/python**  | leveling up beyond ops — APIs, services, the application layer |
+
+<br>
+
+---
+
+<div align="center">
+  <sub>◆ if a panel ever helped or just made you smile, the coffee machine accepts pings ◆</sub>
+  <br><br>
+  <a href="https://buymeacoffee.com/denissucder">
+    <img src="https://img.shields.io/badge/◢◤_buy_me_a_coffee-fuel_the_uptime-6366F1?style=for-the-badge&labelColor=0b0e14" alt="Buy Me a Coffee" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋;I'm+Denis" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=for-the-badge&color=6366F1" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Age-18-6366F1?style=for-the-badge&logo=calendar" alt="Age" />
-  <img src="https://img.shields.io/badge/Working-Nine%20Internet%20Solutions%20AG-6366F1?style=for-the-badge&logo=office" alt="Work" />
-</div>
-
-<br>
-
-## 🚀 About Me
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul style="list-style-type: none; padding: 0;">
-          <li style="margin: 10px 0;">🎂 18 years old</li>
-          <li style="margin: 10px 0;">💼 Currently working and learning at Nine Internet Solutions AG</li>
-          <li style="margin: 10px 0;">🏎️ Passionate about cars and automotive technology</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BusyDenis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&title_color=6366F1&text_color=fff&icon_color=6366F1" alt="Denis's GitHub stats" />
-</div>
-
-### 🛠️ Most Used Languages
-<hr>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDenis&layout=compact&theme=tokyonight&hide_border=true&custom_title=My%20Top%20Languages&title_color=6366F1&text_color=fff" alt="Top Languages" />
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BusyDenis&theme=tokyonight" alt="Profile Details" />
+  <br><br>
+  <sub><code>end of stream · status: OPERATIONAL · thanks for scraping</code></sub>
 </div>
