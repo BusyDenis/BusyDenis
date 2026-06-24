@@ -48,10 +48,10 @@ $ uptime
 
 <br>
 
-### 🤖 ai co-pilot telemetry &nbsp;<sub>`/ auto-updated from ccusage — see SETUP.md`</sub>
+### 🤖 ai co-pilot telemetry &nbsp;<sub>`/ live · via tokscale`</sub>
 
 <div align="center">
-  <img src="assets/claude.svg" width="100%" alt="Claude Code token telemetry" />
+  <a href="https://tokscale.ai/u/BusyDenis"><img src="https://tokscale.ai/api/embed/BusyDenis/svg?template=terminal&graph=1&tokens=full&cost=full" alt="Tokscale Stats" /></a>
 </div>
 
 <br>
