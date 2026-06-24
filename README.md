@@ -16,6 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=BusyDenis&style=flat-square&color=6366F1&label=telemetry.pings" alt="views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/BusyDenis/BusyDenis">
+    <img src="https://img.shields.io/github/stars/BusyDenis/BusyDenis?style=for-the-badge&logo=github&logoColor=white&label=★%20STAR%20MY%20PROFILE&color=6366F1&labelColor=0b0e14" alt="Star my profile" />
+  </a>
+</p>
+
 ---
 
 ```sh
@@ -44,10 +50,6 @@ $ uptime
 ---
 
 <div align="center">
-  <a href="https://github.com/BusyDenis/BusyDenis">
-    <img src="https://img.shields.io/github/stars/BusyDenis/BusyDenis?style=for-the-badge&logo=github&logoColor=white&label=STAR%20MY%20PROFILE&color=6366F1&labelColor=0b0e14" alt="Star my profile" />
-  </a>
-  &nbsp;
   <a href="https://buymeacoffee.com/denissucder">
     <img src="https://img.shields.io/badge/◢◤_buy_me_a_coffee-fuel_the_uptime-6366F1?style=for-the-badge&labelColor=0b0e14" alt="Buy Me a Coffee" />
   </a>
