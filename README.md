@@ -20,7 +20,7 @@
 
 ```sh
 $ whoami --verbose
-> denis @ nine.ch · 19 · 3nd-year apprentice
+> denis @ nine.ch · 19 · 3rd-year apprentice
 $ uptime
 > learning since 2023 · load average: high, by choice
 ```
